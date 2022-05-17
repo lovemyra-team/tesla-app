@@ -1,2 +1,2 @@
-print (gloria)
-print (uche)
+print ('gloria')
+print ('uche')
