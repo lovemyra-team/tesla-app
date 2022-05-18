@@ -1,3 +1,7 @@
 print ('gloria')
 print ('uche')
 print ('Joseph')
+print ('ivo')
+print ('chidi')
+print ('grace')
+print ('glory')
